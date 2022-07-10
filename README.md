@@ -8,4 +8,6 @@ There are two problems to solve here: a) create the data-blockchain itself and b
 
 First I downloaded a simple blockchain in Python from github. This sourcecode can be found in the branch "original blockchain program".
 
+Then I changed this program and added the possibility to manage very big data files. The basic idea is simple: I use 
+
 
